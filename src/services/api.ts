@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { Client, ClientFormData } from '../types';
 
-const API_URL = 'http://192.168.1.2:8080/client';
+const API_URL = 'http://192.168.1.3:8080/client';
 const API_URL_PAIS = 'https://restcountries.com/v3.1';
 
 
